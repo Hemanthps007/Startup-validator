@@ -257,7 +257,7 @@ This project is licensed under the MIT License.
 **Hemanth P S**
 
 - GitHub: https://github.com/Hemanthps007
-- LinkedIn: https://www.linkedin.com/in/hemanth-ps
+- LinkedIn: [https://www.linkedin.com/in/hemanth-ps](https://www.linkedin.com/in/hemanth-ps-37b970309/)
 
 ---
 
